@@ -45,3 +45,4 @@ telegraph
 pyfiglet
 python-dateutil
 git+https://github.com/johnwmillr/LyricsGenius.git
+covid
